@@ -6,7 +6,7 @@ Meu nome é ana Menezes
 - Estou desenvolvend na linguagem JAVASCRIPT
 - Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 
- ### você pode entrar em contato comigo 📧
+- ### você pode entrar em contato comigo 📧
 - 0anamenezes0505@gmail.com
 
 
